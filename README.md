@@ -41,9 +41,9 @@ To run the Python version of the Breakout game, you need to have Python and Pyga
 
 1. Once Python is installed, you can install Pygame using pip, the Python package manager:
 
-```bash
+   ```bash
    pip install Pygame
-```
+   ```
 
 2. **Navigate to Directory:** Open a terminal and navigate to the directory containing
 
@@ -53,11 +53,9 @@ To run the Python version of the Breakout game, you need to have Python and Pyga
 
 3. **Run the Python Script:** Execute the Python script using the following command:
 
-   ````bash
+   ```bash
    python breakoutgame.py
    ```
-
-   ````
 
 4. The game may work properly; if any issue detected make sure that you are running a compatible version of python or mail me at:
 
