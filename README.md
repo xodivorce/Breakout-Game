@@ -35,13 +35,31 @@ To run the Python version of the Breakout game, you need to have Python and Pyga
 
 1. **Download Python:** Visit the [official Python website](https://www.python.org/downloads/) to download the latest version of Python for your operating system. Or use the latest version of HOMEBREW for the installation Python.
 
-`breakoutgame.py`.
+2. **Follow Installation Steps:** Follow the installation instructions provided on the website to install Python on your system.
+
+#### Installing Pygame
+
+1. Once Python is installed, you can install Pygame using pip, the Python package manager:
+
+```bash
+   pip install Pygame
+```
+
+2. **Navigate to Directory:** Open a terminal and navigate to the directory containing
+
+   ```bash
+   breakoutgame.py
+   ```
 
 3. **Run the Python Script:** Execute the Python script using the following command:
 
-`python breakoutgame.py`
+   ````bash
+   python breakoutgame.py
+   ```
 
-4. the game may work properly; if any issue detected make sure that you are running a compatible version of python or mail me at:
+   ````
+
+4. The game may work properly; if any issue detected make sure that you are running a compatible version of python or mail me at:
 
 `prasidmandal79@gmail.com`
 
