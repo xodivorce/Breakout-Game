@@ -59,14 +59,18 @@ To run the Python version of the Breakout game, you need to have Python and Pyga
 
 ## Credits
 
-- The Java version of this game is developed by not4appple.
-- The Python version of this game is developed by not4apple.
+- The Java version of this game is developed by xodivorce.
+- The Python version of this game is developed by xodivorce.
 
 ⭕ Noticed any Bugs? or Want to give me some suggetions? always feel free to open an issue...!!
 
 ### 📝 License & Usage
 
 Prasid Mandal(xodivorce) - kei-portfolio Website is a Fully Open Sourced Project licensed under MIT License. Anyone can view, modify, use (personal and commercial) or distribute it's sources without any attribution and extra permissions.
+
+## Contact
+
+For more information and updates, follow [@_not4apple_](https://instagram.com/_not4apple_) on Instagram.
 
 **🌟 Liked this project? Please consider giving it a star to show me your appreciation.**
 <br></br>
