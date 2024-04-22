@@ -33,23 +33,17 @@ To run the Python version of the Breakout game, you need to have Python and Pyga
 
 #### Installing Python
 
-1. **Download Python:** Visit the [official Python website](https://www.python.org/downloads/) to download the latest version of Python for your operating system.
+1. **Download Python:** Visit the [official Python website](https://www.python.org/downloads/) to download the latest version of Python for your operating system. Or use the latest version of HOMEBREW for the installation Python.
 
-2. **Follow Installation Steps:** Follow the installation instructions provided on the website to install Python on your system.
-
-#### Installing Pygame
-
-1. Once Python is installed, you can install Pygame using pip, the Python package manager.
-
-`pip install pygame`
-
-2. **Navigate to Directory:** Open a terminal and navigate to the directory containing `breakoutgame.py`.
+`breakoutgame.py`.
 
 3. **Run the Python Script:** Execute the Python script using the following command:
 
-   `python breakoutgame.py`
+`python breakoutgame.py`
 
-4. the game may work properly; if any issue detected make sure that you are running a compatible version of python or mail me at `prasidmandal79@gmail.com`
+4. the game may work properly; if any issue detected make sure that you are running a compatible version of python or mail me at:
+
+`prasidmandal79@gmail.com`
 
 ### Controls
 
@@ -66,11 +60,11 @@ To run the Python version of the Breakout game, you need to have Python and Pyga
 
 ### 📝 License & Usage
 
-Prasid Mandal(xodivorce) - kei-portfolio Website is a Fully Open Sourced Project licensed under MIT License. Anyone can view, modify, use (personal and commercial) or distribute it's sources without any attribution and extra permissions.
+Prasid Mandal(xodivorce) - Breakout Game is a Fully Open Sourced Project licensed under MIT License. Anyone can view, modify, use (personal and commercial) or distribute it's sources without any attribution and extra permissions.
 
 ## Contact
 
-For more information and updates, follow [@_not4apple_](https://instagram.com/_not4apple_) on Instagram.
+For more information and updates, follow [@_not4apple_](https://instagram.com/not4apple) on Instagram.
 
 **🌟 Liked this project? Please consider giving it a star to show me your appreciation.**
 <br></br>
