@@ -61,6 +61,8 @@ To run the Python version of the Breakout game, you need to have Python and Pyga
 
 `prasidmandal79@gmail.com`
 
+⭕ Note: py game is competable with the py-version of 3.11.9 64bit.
+
 ### Controls
 
 - Move the paddle left: ← (left arrow key)
