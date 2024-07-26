@@ -1,67 +1,60 @@
-# Breakout Game
+# [Breakout Game](https://en.wikipedia.org/wiki/Breakout_(video_game))
 
-This repository contains implementations of the classic Breakout game in both Java and Python. Breakout is a game where the player controls a paddle to bounce a ball and break bricks.
+### Welcome to the Classic Breakout Game! 🎮✨
+[![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
+[![version](https://img.shields.io/badge/version-v1.3.0-yellow.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
+[![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
+<br></br>
 
-## Java Version
+### 📌 Tech Stack
 
-### How to Run
+Here’s what makes this game tick:
 
-1. **Ensure JDK is Installed:** Make sure you have Java Development Kit (JDK) installed on your system.
+![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-%2338503D.svg?style=for-the-badge&logo=pygame&logoColor=white)
 
-2. **Compile Java Source:** Compile `BreakoutGame.java` using the following command in the terminal:
+### 🛠️ How to Play: Get in the Game!
 
-   ```bash
-   javac BreakoutGame.java
-   ```
+#### Java Version
 
-3. **Run the Program:** Execute the compiled program using:
-   ```bash
-   java BreakoutGame
-   ```
+1. **Ensure JDK is Installed**:
+   - Grab the JDK from the [official website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 
-### Controls
+2. **Compile the Code**:
+   - In your terminal, compile `BreakoutGame.java`:
+     ```bash
+     javac BreakoutGame.java
+     ```
 
-- Move the paddle left: ← (left arrow key)
-- Move the paddle right: → (right arrow key)
-- Start the game: Spacebar
+3. **Run the Game**:
+   - Start the game with:
+     ```bash
+     java BreakoutGame
+     ```
 
-## Python Version
+#### Python Version
 
-### Installation
+1. **Install Python**:
+   - Download from the [official Python website](https://www.python.org/downloads/) or use HOMEBREW for installation.
 
-To run the Python version of the Breakout game, you need to have Python and Pygame installed on your system.
+2. **Install Pygame**:
+   - After installing Python, get Pygame using pip:
+     ```bash
+     pip install Pygame
+     ```
 
-#### Installing Python
+3. **Run the Script**:
+   - Navigate to where `breakoutgame.py` is and execute:
+     ```bash
+     python breakoutgame.py
+     ```
 
-1. **Download Python:** Visit the [official Python website](https://www.python.org/downloads/) to download the latest version of Python for your operating system. Or use the latest version of HOMEBREW for the installation Python.
+4. **Having Issues?**:
+   - Ensure your Python version is compatible. For help, email me at:
+     *hey@xodivorce.in*
 
-2. **Follow Installation Steps:** Follow the installation instructions provided on the website to install Python on your system.
-
-#### Installing Pygame
-
-1. Once Python is installed, you can install Pygame using pip, the Python package manager:
-
-   ```bash
-   pip install Pygame
-   ```
-
-2. **Navigate to Directory:** Open a terminal and navigate to the directory containing
-
-   ```bash
-   breakoutgame.py
-   ```
-
-3. **Run the Python Script:** Execute the Python script using the following command:
-
-   ```bash
-   python breakoutgame.py
-   ```
-
-4. The game may work properly; if any issue detected make sure that you are running a compatible version of python or mail me at:
-
-`prasidmandal79@gmail.com`
-
-⭕ Note: py game is competable with the py-version of 3.11.9 64bit.
+⭕ Note: Pygame is compatible with Python version 3.11.9 64-bit.
 
 ### Controls
 
@@ -69,25 +62,30 @@ To run the Python version of the Breakout game, you need to have Python and Pyga
 - Move the paddle right: → (right arrow key)
 - Start the game: Spacebar
 
-## Credits
+## 🌟 Credits
 
-- The Java version of this game is developed by xodivorce.
-- The Python version of this game is developed by xodivorce.
+- Java version developed by [xodivorce](https://github.com/xodivorce)
+- Python version developed by [xodivorce](https://github.com/xodivorce)
 
-⭕ Noticed any Bugs? or Want to give me some suggetions? always feel free to open an issue...!!
+👾 Got ideas or found a bug? [*Open an issue*](https://github.com/xodivorce/Breakout-game/issues) and let’s chat! Your feedback is awesome!
 
 ### 📝 License & Usage
 
-Prasid Mandal(xodivorce) - Breakout Game is a Fully Open Sourced Project licensed under MIT License. Anyone can view, modify, use (personal and commercial) or distribute it's sources without any attribution and extra permissions.
+This Breakout Game is licensed under the [**MIT License**](LICENSE). By accessing or contributing to this project, you agree to the following terms:
 
-## Contact
+1. **Permission**:
+   - **The MIT License** permits anyone to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, provided that the above copyright notice and this permission notice are included in all copies or substantial portions of the Software.
 
-For more information and updates, follow [@_not4apple_](https://instagram.com/not4apple) on Instagram.
+2. **Warranty Disclaimer**:
+   - The Software is provided "as is", without warranty of any kind. The authors are not liable for any damage or issues resulting from the use of the Software.
 
-**🌟 Liked this project? Please consider giving it a star to show me your appreciation.**
+3. **Liability Disclaimer**:
+   - In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+**🌟 Like this project? Give it a star to show your support!**
+
 <br></br>
-<br></br>
 
----
+****
 
-An Open Sourced Project - Developed with ❤️ by **Prasid**
+An Open-Sourced Project - Crafted with ❤️ by **Prasid** ([@xodivorce](https://instagram.com/xodivorce))
