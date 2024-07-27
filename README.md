@@ -2,7 +2,7 @@
 
 ### Welcome to the Classic Breakout Game! - deveoped by [@xodivorce](https://instagram.com/xodivorce) 🎮✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
-[![version](https://img.shields.io/badge/version-v1.3.5-yellow.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
+[![version](https://img.shields.io/badge/version-v1.3.6-yellow.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
 <br></br>
 
