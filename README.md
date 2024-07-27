@@ -1,8 +1,8 @@
 # [Breakout Game](https://en.wikipedia.org/wiki/Breakout_(video_game))
 
-### Welcome to the Classic Breakout Game! - deveoped by [@xodivorce](https://instagram.com/xodivorce) 🎮✨
+### Welcome to the Classic Breakout Game..! - deveoped by [@xodivorce](https://instagram.com/xodivorce) 🎮✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
-[![version](https://img.shields.io/badge/version-v1.3.6-yellow.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
+[![version](https://img.shields.io/badge/version-v1.3.7-yellow.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
 <br></br>
 
@@ -54,7 +54,7 @@ Here’s what makes this game tick:
    - Ensure your Python version is compatible. For help, email me at:
      *hey@xodivorce.in*
 
-⭕ Note: Pygame is compatible with Python version 3.11.9 64-bit.
+⭕ **Note**: Pygame is compatible with Python version 3.11.9 64-bit.
 
 🚀 **Got Ideas or Spotted a Bug?**  
 Don’t be shy! [*Open an issue*](https://github.com/xodivorce/Breakout-game/issues) to discuss new features, enhancements, or any bugs you find. Your feedback is golden!!
