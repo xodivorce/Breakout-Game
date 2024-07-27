@@ -1,8 +1,8 @@
 # [Breakout Game](https://en.wikipedia.org/wiki/Breakout_(video_game))
 
-### Welcome to the Classic Breakout Game! 🎮✨
+### Welcome to the Classic Breakout Game! - deveoped by [@xodivorce](https://instagram.com/xodivorce) 🎮✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
-[![version](https://img.shields.io/badge/version-v1.3.1-yellow.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
+[![version](https://img.shields.io/badge/version-v1.3.2-yellow.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
 <br></br>
 
@@ -67,20 +67,34 @@ Here’s what makes this game tick:
 - Java version developed by [xodivorce](https://github.com/xodivorce)
 - Python version developed by [xodivorce](https://github.com/xodivorce)
 
-👾 Got ideas or found a bug? [*Open an issue*](https://github.com/xodivorce/Breakout-game/issues) and let’s chat! Your feedback is awesome!
+🚀 **Got Ideas or Spotted a Bug?**  
+Don’t be shy! [*Open an issue*](https://github.com/xodivorce/Breakout-game/issues) to discuss new features, enhancements, or any bugs you find. Your feedback is golden!!
+
+- Let’s create something epic together! 🌟
 
 ### 📝 License & Usage
 
-This Breakout Game is licensed under the [**MIT License**](LICENSE). By accessing or contributing to this project, you agree to the following terms:
+This project is licensed under the [**GNU General Public License v3.0**](LICENSE). By accessing or contributing to this project, you agree to the following terms:
 
-1. **Permission**:
-   - **The MIT License** permits anyone to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, provided that the above copyright notice and this permission notice are included in all copies or substantial portions of the Software.
+1. **Contributions**:
+   - Contributions (code, documentation, etc.) are welcome and must be made under the same GPLv3 license.
 
-2. **Warranty Disclaimer**:
-   - The Software is provided "as is", without warranty of any kind. The authors are not liable for any damage or issues resulting from the use of the Software.
+2. **Use of Content**:
+   - Content can be viewed, downloaded, and used according to the terms of the GPLv3. This includes the freedom to use, modify, and distribute the software.
 
-3. **Liability Disclaimer**:
-   - In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+3. **Attribution**:
+   - Proper credit must be given to the original authors. Include a link to the GPL license and indicate any changes made to the original content.
+
+4. **Derivative Works**:
+   - Modified versions of the content can be distributed under the same GPLv3 license. This ensures that all modifications remain free and open-source.
+
+5. **Requesting Permission**:
+   - For specific permissions or exceptions not covered by the GPL, contact the Owner at *hey@xodivorce.in*.
+
+6. **Copyright Infringement**:
+   - Unauthorized use that violates the terms of the GPLv3 may result in legal action.
+
+© 2024 Prasid, [xodivorce.in](https://www.xodivorce.in). All rights reserved.
 
 **🌟 Like this project? Give it a star to show your support!**
 
