@@ -2,7 +2,7 @@
 
 ### Welcome to the Classic Breakout Game! - deveoped by [@xodivorce](https://instagram.com/xodivorce) 🎮✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
-[![version](https://img.shields.io/badge/version-v1.3.2-yellow.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
+[![version](https://img.shields.io/badge/version-v1.3.3-yellow.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/Breakout-game)
 <br></br>
 
@@ -94,7 +94,7 @@ This project is licensed under the [**GNU General Public License v3.0**](LICENSE
 6. **Copyright Infringement**:
    - Unauthorized use that violates the terms of the GPLv3 may result in legal action.
 
-© 2024 Prasid, [xodivorce.in](https://www.xodivorce.in). All rights reserved.
+© 2024 Prasid, ([*xodivorce.in*](https://www.xodivorce.in)). All rights reserved.
 
 **🌟 Like this project? Give it a star to show your support!**
 
